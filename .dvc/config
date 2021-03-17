@@ -3,4 +3,4 @@
 ['remote "training_batch_files/*.csv"']
     url = ../Prediction_Batch_files/*.csv
 ['remote "storage"']
-    url = ../gdrive:1YFM3inCjsuBs8FL_cggRbNvL5FX3vXnf
+    url = gdrive://1YFM3inCjsuBs8FL_cggRbNvL5FX3vXnf
