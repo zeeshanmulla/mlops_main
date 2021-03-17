@@ -1,0 +1,2 @@
+['remote "training_batch_files/*.csv"']
+    url = ../Prediction_Batch_files/*.csv
