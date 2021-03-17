@@ -1,2 +1,6 @@
+[core]
+    remote = storage
 ['remote "training_batch_files/*.csv"']
     url = ../Prediction_Batch_files/*.csv
+['remote "storage"']
+    url = ../gdrive:https:/drive.google.com/drive/u/0/folders/1YFM3inCjsuBs8FL_cggRbNvL5FX3vXnf
